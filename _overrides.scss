@@ -1,0 +1,14 @@
+::selection {
+  background: #35ffdc; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: $blue; /* Gecko Browsers */
+}
+.card,
+.box,
+.list {
+  box-shadow: 0 0.625rem 3.5rem 0 rgba(198, 203, 222, 0.45);
+}
+.footer {
+  background: transparent;
+}

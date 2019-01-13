@@ -1,0 +1,10 @@
+{
+  "name": "capone-stone",
+  "version": "0.0.1",
+  "description": "Bulma theme used on my personal website. ",
+  "main": "index.js",
+  "repository": "https://gitlab.com/lvrbrtsn/capone-stone",
+  "author": "Levi Robertson <levi@lvrbrtsn.com>",
+  "license": "MIT",
+  "private": false
+}
